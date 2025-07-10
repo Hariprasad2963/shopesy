@@ -1,0 +1,23 @@
+{
+  "name": "shopesy",
+  "version": "1.0.0",
+  "description": "Ecommerce App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hariprasad2963/shopesy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hariprasad2963/shopesy/issues"
+  },
+  "homepage": "https://github.com/Hariprasad2963/shopesy#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
